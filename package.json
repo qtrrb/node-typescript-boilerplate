@@ -18,7 +18,7 @@
   "author": "Quentin Torroba",
   "license": "MIT",
   "devDependencies": {
-    "@types/node": "^18.11.18",
+    "@types/node": "^20.1.0",
     "@typescript-eslint/eslint-plugin": "^5.48.1",
     "@typescript-eslint/parser": "^5.48.1",
     "eslint": "^8.32.0",
